@@ -1,2 +1,4 @@
 # Tic-tac-Toe
-Beautiful Game for timepass
+Childhood Game
+Game Using Python Language
+
